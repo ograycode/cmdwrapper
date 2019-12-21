@@ -1,5 +1,7 @@
 # cmdwrapper
 
+[![CircleCI](https://circleci.com/gh/ograycode/cmdwrapper/tree/master.svg?style=svg)](https://circleci.com/gh/ograycode/cmdwrapper/tree/master)
+
 cmdwrapper aims to establish a pattern for working with CLI tools that is inspired by the requests library.
 
 ## Why
